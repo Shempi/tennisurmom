@@ -1,0 +1,6 @@
+print("whatever i want")
+Pudding = input("chocolate ")
+print ("Hello " + Pudding)
+Sum = eval(input("Number 1"))
+Sum2 = eval(input("Number 2"))
+print(Sum + Sum2)
